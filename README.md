@@ -6,3 +6,5 @@ hoge
 fuga
 
 edit
+
+test
