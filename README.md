@@ -5,6 +5,6 @@ hoge
 
 fuga
 
-edit
+readme
 
 test
